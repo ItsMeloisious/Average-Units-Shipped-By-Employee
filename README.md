@@ -1,0 +1,2 @@
+# Average-Units-Shipped-By-Employee
+Allows the user to enter a series of units shipped values for 3 employees, it records their values in a textbox for each day, and when 7 days are entered it calculates and displays an average, then moves on to the next employee.  Once the 3rd employee has inputed all his units shipped for the 7 days, a overall calculated avereage of the 3 employees is displayed.
